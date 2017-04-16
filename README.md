@@ -3,11 +3,11 @@
 +----+------------+------+-----------------+
 | ID | SHORT NAME | USER | ADDRESS         |
 +----+------------+------+-----------------+
-| 1 | SRV0 | user | srv0.domain.com |
-|   |      |      |                 |
-| 2 | SRV1 | user | srv1.domain.com |
-|   |      |      |                 |
-| 3 | SRV2 | user | srv2.domain.com |
+| 1  | SRV0       | user | srv0.domain.com |
+|    |            |      |                 |
+| 2  | SRV1       | user | srv1.domain.com |
+|    |            |      |                 |
+| 3  | SRV2       | user | srv2.domain.com |
 +----+------------+------+-----------------+
 
 TO LOGIN CLUSTER ID: [1-3]
